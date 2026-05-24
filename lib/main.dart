@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Register UI',
       theme: ThemeData(
-        fontFamily: 'Poppins',
+        fontFamily: 'Akt',
       ),
       home: const RegisterScreen(),
     );
